@@ -44,7 +44,7 @@ używających biblioteki ppx_stable.
 
 %package devel
 Summary:	Stable types conversions generator - development part
-Summary(pl.UTF-8):	Generowanie konwersji typów stabilnych - cześć programistyczna
+Summary(pl.UTF-8):	Generowanie konwersji typów stabilnych - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
